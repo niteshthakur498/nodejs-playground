@@ -1,0 +1,15 @@
+{
+  "name": "kafka-producer-app",
+  "version": "1.0.0",
+  "description": "Kafka producer application with SSL",
+  "main": "producer.js",
+  "scripts": {
+    "start": "node producer.js"
+  },
+  "dependencies": {
+    "kafkajs": "^2.2.0"
+  },
+  "author": "Your Name",
+  "license": "MIT"
+}
+

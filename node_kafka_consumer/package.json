@@ -1,0 +1,17 @@
+{
+  "name": "nodejs-kafka-consumer",
+  "version": "1.0.0",
+  "description": "Kafka consumer test app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "kafka"
+  ],
+  "author": "Nitesh Thakur",
+  "license": "ISC",
+  "dependencies": {
+    "kafkajs": "^2.2.4"
+  }
+}
